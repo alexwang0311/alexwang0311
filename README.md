@@ -1,11 +1,15 @@
-### Hi there 👋
-
+### Hello 👋
+- 🏦 I’m a C# developer working on portfolio management software with .NET and Microsoft SQL Server.
+- 🤔 I enjoy learning about web system architecture and digital design and working on side projects during my personal time.
+- ✍ I occasionally write about random tech/math topics @ https://medium.com/@alexwang99311
+- 🌱 I’m currently learning: Rust, Blazor
+- 📫 My personal site is @ https://alexwang0311.github.io/
 <!--
 **alexwang0311/alexwang0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
