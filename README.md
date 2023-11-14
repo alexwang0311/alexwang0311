@@ -1,5 +1,5 @@
 ### Hello 👋
-- 🏦 I’m a C# developer working on portfolio management software with .NET and Microsoft SQL Server.
+- 🏦 I’m a C# developer working on trading systems with .NET and Microsoft SQL Server.
 - 🤔 I enjoy learning about web system architecture, digital design, and working on side projects.
 - ✍ I occasionally write about random tech/math topics @ https://medium.com/@alexwang99311
 - 🌱 I’m currently learning: Rust, Blazor
