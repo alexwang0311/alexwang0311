@@ -1,6 +1,6 @@
 ### Hello 👋
 -  I’m a software engineer @ Microsoft
--  Previously, my work primarily focused on developing trading systems with a distributed architecture @ AllianceBernstein.
+-  Previously, my work primarily focused on developing trading systems with a distributed architecture @ AllianceBernstein
 -  I occasionally write about random tech/math topics @ https://medium.com/@alexwang99311
 -  I’m currently learning: Rust, Fortran
 -  You can reach me through my personal website @ https://alexwang0311.github.io/
