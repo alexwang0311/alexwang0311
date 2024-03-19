@@ -1,9 +1,9 @@
 ### Hello 👋
-- 🏦 I’m a software engineer working on distributed trading systems with .NET, C#, and Microsoft SQL Server.
-- 🤔 I enjoy learning about web system architecture and digital design, and working on side projects.
-- ✍ I occasionally write about random tech/math topics @ https://medium.com/@alexwang99311
-- 🌱 I’m currently learning: Rust, Blazor
-- 📫 Check our my personal website @ https://alexwang0311.github.io/
+-  I’m a software engineer @ Microsoft
+-  Previously, my work primarily focused on developing trading systems with a distributed architecture @ AllianceBernstein.
+-  I occasionally write about random tech/math topics @ https://medium.com/@alexwang99311
+-  I’m currently learning: Rust, Fortran
+-  You can reach me through my personal website @ https://alexwang0311.github.io/
 <!--
 **alexwang0311/alexwang0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
