@@ -1,6 +1,6 @@
 ### Hello 👋
 -  I’m a software engineer @ Microsoft, working on a hybrid team of SWEs and SREs to secure, scale, and automate large-scale distributed systems
--  Previously, my work primarily focused on developing trading systems with a distributed architecture @ AllianceBernstein
+-  Previously, my work primarily focused on developing trading systems with a service-oriented architecture @ AllianceBernstein
 -  I occasionally write about random tech/math topics @ medium.com/@alexwang99311
 -  My personal website: alexwang0311.github.io
 <!--
