@@ -1,6 +1,6 @@
 ### Hello 👋
 -  I’m a software engineer @ [AWS Certificate Manager](https://aws.amazon.com/certificate-manager/), building the next generation of SSL/TSL provisioning, management, and deployment at scale.
--  Prior to this, I was @ Microsoft, where I worked on IaC solutions (though only used internally, but it functions like a Terraform/CloudFormation engine) that scale, automate, and secure global-scale distributed systems for a suite of [Defender](https://www.microsoft.com/en-us/security/business/microsoft-defender) products.
+-  Prior to this, I was @ Microsoft, where I worked on IaC solutions (though only used internally, but it functions like a [Terraform](https://www.terraform.io/)/[CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html) engine) that scale, automate, and secure global-scale distributed systems for a suite of [Defender](https://www.microsoft.com/en-us/security/business/microsoft-defender) products.
 -  I occasionally write about random tech/math topics @ [medium.com/@alexwang99311](https://medium.com/@alexwang99311)
 -  My personal website: [alexwang0311.github.io](https://alexwang0311.github.io/)
 <!--
