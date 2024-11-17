@@ -1,6 +1,6 @@
 ### Hello 👋
--  I’m a software engineer @ Microsoft, working on a hybrid team of SWEs and SREs to secure, scale, and automate large-scale distributed systems
--  Previously, my work primarily focused on developing trading systems with a service-oriented architecture @ AllianceBernstein
+-  I’m a software engineer @ [AWS Certificate Manager](https://aws.amazon.com/certificate-manager/), building the next generation of SSL/TSL provisioning, management, and deployment that make the internet more secure.
+-  Prior to this, I was @ Microsoft, where I worked on IaC solutions (though only used internally, but it functions like a Terraform/CloudFormation engine) that scale, automate, and secure global-scale distributed systems for a suite of Defender products.
 -  I occasionally write about random tech/math topics @ medium.com/@alexwang99311
 -  My personal website: alexwang0311.github.io
 <!--
